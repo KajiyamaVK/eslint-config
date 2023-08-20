@@ -6,7 +6,7 @@
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "kajiyamavk/eslint-config"
+    "url": "KajiyamaVK/eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
