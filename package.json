@@ -1,12 +1,12 @@
 {
   "name": "kajiyamavk-eslint-config",
-  "version": "1.0.1",
+  "version": "1.1.4",
   "private": false,
   "description": "ESLint configuration used by me.",
   "main": "index.js",
   "license": "MIT",
   "repository": {
-    "url": "KajiyamaVK/eslint-config"
+    "url": "kajiyamavk/eslint-config"
   },
   "peerDependencies": {
     "eslint": "^8.0.0",
